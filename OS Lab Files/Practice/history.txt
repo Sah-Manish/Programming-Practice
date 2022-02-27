@@ -1,0 +1,188 @@
+1  cal 2
+    2  cal 2022
+    3  man cal
+    4  man vim-tiny
+    5  pwd
+    6  cd Desktop/
+    7  mkdir OS\ Lab\ Files
+    8  cd OS\ Lab\ Files/
+    9  pwd
+   10  vim-tiny test.sh
+   11  vim test.sh
+   12  man python
+   13  man gcc
+   14  touch test.txt
+   15  ls
+   16  rm test.txt 
+   17  ls
+   18  sudo apt search vim
+   19  bash Sum.sh 
+   20  cd Desktop/
+   21  sudo mount -t vboxsf 
+   22  sudo mount -t vboxsf Programming\ Tutorials Programming
+   23  sudo mount -t vboxsf D: Programming
+   24  sudo mount vboxsf sf_D_DRIVE Programming
+   25  sudo mount -t vboxsf sf_D_DRIVE Programming
+   26  sudo mount -t vboxsf D_DRIVE Programming
+   27  sudo apt update
+   28  sudo apt upgrade
+   29  sudo apt search vim
+   30  sudo apt install vim
+   31  sudo apt search jupyter
+   32  sudo apt search visual\ studio
+   33  sudo apt update
+   34  apt list --upgradable
+   35  sudo apt upgrade python3.8
+   36  ls
+   37  bash Sum.sh 
+   38  vim Sum.sh 
+   39  bash Sum.sh 
+   40  copy Sum.sh ArithmeticOperations.sh
+   41  cp Sum.sh ArithmeticOperations.sh
+   42  bash ArithmeticOperations.sh 
+   43  rm Sum.sh
+   44  ls
+   45  clear
+   46  pwd
+   47  apt list
+   48  clear
+   49  history
+   50  clear
+   51  cal 2 2022
+   52  cal 8 2000
+   53  cal 10 2002
+   54  man cal
+   55  clear
+   56  vim Swap.sh
+   57  bash Swap.sh 
+   58  pwd
+   59  ls
+   60  cd Desktop/
+   61  ls
+   62  cd Programming/
+   63  las
+   64  ls
+   65  cd ..
+   66  sudo mount -t vboxvf D_DRIVE Programming
+   67  sudo mount -t vboxvef D_DRIVE Programming
+   68  sudo mount -t vboxsf
+   69  sudo mount -t vboxsf D_DRIVE Programming
+   70  cd Programming/
+   71  ls
+   72  cd OS\ Lab\ Files/Experiment/
+   73  vim ArithmeticOperations.sh 
+   74  clear
+   75  vim Swap.sh 
+   76  exit
+   77  pwd
+   78  cd OS\ Lab\ Files/
+   79  cd Experiment/
+   80  echo "Manish Kumar"
+   81  bash ArithmeticOperations.sh 
+   82  clear
+   83  pwd
+   84  echo "Manish Kumar"
+   85  bash Swap.sh 
+   86  exit
+   87  sudo apt list
+   88  apt list --upgradable
+   89  sudo apt list --upgradable
+   90  history
+   91  man apt
+   92  exit
+   93  pwd
+   94  cd Desktop/
+   95  ls
+   96  sudo mount -t vboxsf D_DRIVE Programming
+   97  cd Programming/
+   98  ls
+   99  mkdir Bash\ Practice
+  100  dir
+  101  cd Bash\ Practice/\
+  102  cd ..
+  103  cd Programming
+  104  dir
+  105  cd C++\ Practice
+  106  java MiniProject 1003
+  107  apt list upgradable
+  108  apt list --upgradable
+  109  sudo apt install java
+  110  apt search java
+  111  clear
+  112  cd ..
+  113  cd Bash\ Practice/
+  114  vim test.sh
+  115  cat test.sh 
+  116  cal 2 2002
+  117  cal 2 2022
+  118  man install
+  119  man python
+  120  vim test.sh
+  121  bash test.sh -c 5
+  122  bash test.sh 5
+  123  bash test.sh -i 5
+  124  man bash
+  125  bash test.sh -v 5
+  126  test.sh 5
+  127  bash test.sh \5
+  128  clear
+  129  dir
+  130  pwd
+  131  sudo mount -t vboxsf D_DRIVE Programming
+  132  cd Desktop/
+  133  sudo mount -t vboxsf D_DRIVE Programming
+  134  cd Programming/
+  135  ls
+  136  dir
+  137  man photo
+  138  apt list 
+  139  apt list search python
+  140  apt search pyhton
+  141  python print("Hello World!")
+  142  python print "Hello World!"
+  143  cd ../OS\ Lab\ Files/
+  144  dir
+  145  cd Practice/
+  146  list
+  147  dir
+  148  pwd
+  149  clear
+  150  cat /etc/shells
+  151  which bash
+  152  vim day1.sh
+  153  ls -al
+  154  chmod +x day1.sh 
+  155  ls -al
+  156  day1.sh
+  157  ./day1.sh 
+  158  man chmod
+  159  ./day1.sh 
+  160  dir
+  161  cat file.txt 
+  162  ./day1.sh 
+  163  cat file.txt 
+  164  ./day1.sh 
+  165  cat file.txt 
+  166  ./day1.sh 
+  167  cat file.txt 
+  168  vim day2.sh
+  169  cat day1.sh 
+  170  cat day2.sh 
+  171  dir
+  172  touch day2.sh
+  173  man rm
+  174  clear
+  175  vim day1.sh 
+  176  chmod +x day2.sh 
+  177  ./day2.sh 
+  178  ./day2.sh 0
+  179  ./day2.sh
+  180  touch history.txt
+  181  touch history.sh
+  182  chmod +x history.sh 
+  183  ./history.sh 
+  184  cat day1.sh 
+  185  ./history.sh 
+  186  cat history.txt 
+  187  history
+
